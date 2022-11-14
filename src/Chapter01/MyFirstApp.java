@@ -1,4 +1,4 @@
-package ch01;
+package Chapter01;
 
 public class MyFirstApp {
     public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class MyFirstApp {
         } else {
             System.out.println("x isn't 10");
         }
-        if ((x < 3) && (name.equals("Dirk"))) {
+        if ((x < 3) && (name.equals("whoName"))) {
             System.out.println("Gently");
         }
         System.out.println("this line runs no matter what");

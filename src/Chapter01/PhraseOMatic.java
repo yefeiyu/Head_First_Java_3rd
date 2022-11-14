@@ -1,4 +1,4 @@
-package ch01;
+package Chapter01;
 
 public class PhraseOMatic {
     public static void main (String[] args) {
