@@ -20,6 +20,7 @@ public class MyFirstApp {
             System.out.println("x must to be 10");
         } else {
             System.out.println("x isn't 10");
+
         }
         if ((x < 3) && (name.equals("whoName"))) {
             System.out.println("Gently");
